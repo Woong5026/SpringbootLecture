@@ -65,6 +65,7 @@ public Map<String, String> test() {
 }
 ```
 <br>
+
 ```java
 <!DOCTYPE html>
 <html>
@@ -79,6 +80,7 @@ public Map<String, String> test() {
 ```
 
 <br>
+
 ### RestController
 RestController는 Restful Controller의 준말로써, Spring MVC Controller에 @ResponseBody가 추가된 것입니다.
 
@@ -97,5 +99,4 @@ public class TestController {
 }
 ```
 
----
 
