@@ -16,7 +16,7 @@ begin, commit 을 자동으로 수행해준다.
 
 적용된 범위에서는 트랜잭션 기능이 포함된 프록시 객체가 생성되어 자동으로 commit 혹은 rollback을 진행해준다.
 
-### Optional
+### @Optional
 
 Java8부터 Optional<T>클래스를 사용해 NullPointerException(이하 NPE)를 방지할수 있도록 했다.
 
