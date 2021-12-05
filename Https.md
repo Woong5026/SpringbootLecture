@@ -71,8 +71,12 @@ Ex) 네이버 서버는 두 키들 중 하나만 비밀로 보관(개인키)고 
 
 양쪽의 일련의 과정을 거쳐 동일한 대칭키가 만들어진다. 이후 서로 같은 대칭키를 가지고 있으니 3자가 알아볼 걱정은 끝! 설명도 끝!
 
+- 실제 적용법
+참고자료 : https://luminitworld.tistory.com/85
 
+$ sudo add-apt-repository ppa:certbot/certbot과 $ sudo apt install python-certbot-nginx 사이에
 
+sudo yum install certbot 설치해주기!
 
 
 
